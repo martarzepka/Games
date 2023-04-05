@@ -1,0 +1,6 @@
+1000
+Który z tych państw ma największą powierzchnię?
+A) Rosja 
+B) Kanada 
+C) Chiny 
+D) Stany Zjednoczone

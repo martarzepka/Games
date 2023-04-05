@@ -1,0 +1,6 @@
+0100
+Która z tych planet ma najwięcej księżyców?
+A) Mars 
+B) Jowisz 
+C) Uran 
+D) Neptun

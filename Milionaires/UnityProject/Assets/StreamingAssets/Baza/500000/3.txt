@@ -1,0 +1,6 @@
+0001
+Który z tych filmów zdobył Oscara za najlepszy film w 2020 roku?
+A) "Parasite" 
+B) "Green Book" 
+C) "Joker" 
+D) "Nomadland"

@@ -1,0 +1,6 @@
+1000
+Który z tych państw graniczy z największą liczbą innych państw?
+A) Rosja 
+B) Brazylia 
+C) Chiny 
+D) Indie

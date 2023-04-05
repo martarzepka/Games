@@ -1,0 +1,6 @@
+0010
+Który z podanych aktorów zdobył najwięcej Oscarów w historii?
+A) Tom Hanks 
+B) Meryl Streep 
+C) Katharine Hepburn 
+D) Daniel Day-Lewis

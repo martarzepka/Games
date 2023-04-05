@@ -1,0 +1,6 @@
+1000
+Który z tych języków jest najczęściej używanym językiem na świecie?
+A) chiński 
+B) hiszpański 
+C) angielski 
+D) hindi

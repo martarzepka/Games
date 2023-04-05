@@ -1,0 +1,6 @@
+1000
+Które z tych państw jest najmniejsze pod względem powierzchni?
+A) San Marino 
+B) Monako
+C) Nauru 
+D) Malta

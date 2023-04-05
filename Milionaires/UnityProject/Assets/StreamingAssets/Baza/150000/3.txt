@@ -1,0 +1,6 @@
+1000
+Która z tych dyscyplin sportowych jest grana w trakcie Zimowych Igrzysk Olimpijskich?
+A) hokej na lodzie 
+B) piłka nożna 
+C) koszykówka 
+D) siatkówka

@@ -1,0 +1,6 @@
+1000
+Jaka jest stolica Litwy?
+A) Wilno 
+B) Ryga 
+C) Tallinn 
+D) Kijów

@@ -1,0 +1,6 @@
+0100
+Który kraj jest największym producentem kawy na świecie?
+A) Kolumbia 
+B) Brazylia 
+C) Etiopia 
+D) Wietnam

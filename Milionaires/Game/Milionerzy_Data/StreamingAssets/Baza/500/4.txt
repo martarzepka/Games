@@ -1,0 +1,6 @@
+0100
+Który kontynent jest najmniejszy pod względem powierzchni?
+A) Afryka 
+B) Australia 
+C) Europa 
+D) Ameryka Południowa

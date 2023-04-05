@@ -1,0 +1,6 @@
+0010
+Która gra wideo jest najchętniej kupowaną grą w historii?
+A) Minecraft 
+B) Grand Theft Auto V 
+C) Tetris 
+D) Call of Duty: Modern Warfare 3

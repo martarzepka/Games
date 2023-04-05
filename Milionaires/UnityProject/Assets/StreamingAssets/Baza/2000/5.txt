@@ -1,0 +1,6 @@
+0001
+Jakie jest imię i nazwisko autora powieści "Zabić drozda"?
+A) John Steinbeck 
+B) Ernest Hemingway 
+C) Harper Lee 
+D) Truman Capote

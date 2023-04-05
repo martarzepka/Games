@@ -1,0 +1,6 @@
+0100
+Który z tych aktorów zdobył najwięcej Oscarów za najlepszą rolę męską w historii?
+A) Marlon Brando 
+B) Daniel Day-Lewis 
+C) Jack Nicholson 
+D) Tom Hanks

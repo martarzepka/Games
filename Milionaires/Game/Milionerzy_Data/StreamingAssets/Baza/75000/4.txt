@@ -1,0 +1,6 @@
+0100
+Który z podanych aktorów grał postać Jamesa Bonda najdłużej w historii?
+A) Sean Connery 
+B) Roger Moore 
+C) Pierce Brosnan 
+D) Daniel Craig

@@ -1,0 +1,6 @@
+1000
+Która z tych rzek przepływa przez najwięcej państw?
+A) Dunaj 
+B) Nil 
+C) Ren 
+D) Sekwana

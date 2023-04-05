@@ -1,0 +1,6 @@
+0100
+Która z tych miar odpowiada największej wartości?
+A) 1 mila 
+B) 1 kilometr 
+C) 1 jard 
+D) 1 stopa

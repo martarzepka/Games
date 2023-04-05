@@ -1,0 +1,6 @@
+0010
+Jak nazywa się jednostka miary ciśnienia?
+A) Watt
+B) Newton
+C) Pascal
+D) Kilogram

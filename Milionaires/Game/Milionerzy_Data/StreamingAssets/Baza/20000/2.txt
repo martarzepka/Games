@@ -1,0 +1,6 @@
+1000
+Który z tych krajów leży na Półwyspie Arabskim?
+A) Jemen 
+B) Oman 
+C) Kuwejt 
+D) Pakistan

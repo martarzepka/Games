@@ -1,0 +1,6 @@
+1000
+Który z tych wynalazków został skonstruowany jako pierwszy?
+A) żarówka 
+B) telefon 
+C) samochód 
+D) telewizor

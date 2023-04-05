@@ -1,0 +1,6 @@
+1000
+Który kraj jest największym producentem ropy na świecie?
+A) Arabia Saudyjska 
+B) Rosja 
+C) Stany Zjednoczone 
+D) Iran

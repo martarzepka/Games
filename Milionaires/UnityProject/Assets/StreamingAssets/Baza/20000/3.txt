@@ -1,0 +1,6 @@
+0100
+Który z podanych aktorów zagrał w filmie "Matrix"?
+A) Tom Hanks 
+B) Keanu Reeves 
+C) Robert De Niro 
+D) Brad Pitt

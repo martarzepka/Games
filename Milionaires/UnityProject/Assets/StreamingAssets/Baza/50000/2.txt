@@ -1,0 +1,6 @@
+0100
+Która z tych rzek jest najdłuższa?
+A) Nil 
+B) Amazonka 
+C) Jangcy 
+D) Missisipi

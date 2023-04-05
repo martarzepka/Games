@@ -1,0 +1,6 @@
+1000
+Który z podanych miast jest najdalej na północny zachód?
+A) Oslo 
+B) Helsinki 
+C) Sztokholm 
+D) Kopenhaga

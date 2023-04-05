@@ -1,0 +1,6 @@
+0001
+Który z tych wynalazków został skonstruowany jako ostatni?
+A) samochód 
+B) telewizor 
+C) komputer 
+D) smartfon

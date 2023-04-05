@@ -1,0 +1,6 @@
+1000
+Która z tych planet Układu Słonecznego jest największa?
+A) Jowisz 
+B) Saturn 
+C) Uran 
+D) Neptun

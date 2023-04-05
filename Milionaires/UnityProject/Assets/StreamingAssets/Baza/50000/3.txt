@@ -1,0 +1,6 @@
+1000
+Który z tych państw jest największym producentem kawy na świecie?
+A) Brazylia 
+B) Kolumbia 
+C) Etiopia 
+D) Indie

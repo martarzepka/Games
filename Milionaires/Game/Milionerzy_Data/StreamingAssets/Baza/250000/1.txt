@@ -1,0 +1,6 @@
+1000
+Które z tych miast leży najbliżej równika?
+A) Quito 
+B) Nairobi 
+C) Bombaj 
+D) Mexico City
